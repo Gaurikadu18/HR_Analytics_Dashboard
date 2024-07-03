@@ -6,7 +6,7 @@ develop a comprehensive HR Analytics Dashboard to support organization in inform
 
 
 ### Data Source
-.Csv file
+Hr_Analytics.Csv file
 
 
 ### Tool
